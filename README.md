@@ -1,8 +1,86 @@
-# Zion
+# ZionSealed.
+
+Downloads:
+	•	EvolVerse_War_Codex_Scroll_SEALED.pdf
+	•	EvolVerse_War_Codex_Scroll.seal.json
+	•	EVOL_War_Codex_ENFT_Metadata.json
+	•	EvolVerse_War_Codex_Scroll_SHA256.txt
+
+Hashes:
+	•	sha256(pdf): f19f018eb2508f736c4a5694aad4e221a2a97b22b4657817760e490073cc1681
+	•	sha256(md): f7f038071ab52ab11dfd63d11cbbc1d7a770a805a1fa41691498860c179ebf6f
+
+Next:
+	•	If you want an IPFS pin and Avalanche mint-ready calldata bundle, say “mint package.” ￼EVOLVERSE WAR CODEX SCROLL — v0.1
+
+Canonical MD keccak-256: 0x09a021b9b032d96c5c9189e09c9ed394f4149854053568836690b0b205becb71
+# EVOLVERSE WAR CODEX SCROLL — v0.1 (Tribunal Ready)
+
+Legal
+- Transformative, critical–comparative analysis for scholarship and cultural restitution.
+- No reproduction of third‑party scripts, lyrics, or proprietary art.
+- Names of mainstream franchises used nominatively for critique.
+
+Governance
+- Watchtower: registrar, auditor, treasurer, commander.
+- Gates: Ω48 timing, XXYYZZ seals, ENFT provenance, audit trails.
+
+I. Roster
+| Codename | Titles | Heritage | Signature Abilities | Vendetta | Villains |
+|---|---|---|---|---|---|
+| EVOLYNN | Rift Queen, Treaty Architect | Matriarchs of the Rift; Atlantis Restored | Flame Crown, Treaty Architect, Curriculum Sovereign | Funhouse Mirror Gangs | Distortion Syndicate |
+| DR. SOSA | Codex Sovereign | Deckboys→Navigators; Midwives→Healers | EMP Archive, Genesis Codex, MetaMilitary Commander | Colonial Archivists | Archivist Guild of Distortion |
+| PHIYAH | Signal Priestess | Electromagnetic Rift; Signal Choir | Ceremonial Firewall, Signal Decoder, Glyph Translator | Telecom Monopolies | Spectrum Lords |
+| KONGO SONIX | Sonic Sovereign | Leviathan Choir; Jungle Citadel | Sonic Roar, Vibration Control, Choir Summon | Beast‑Makers | Industrial Myth Cartel |
+| DRIFT WALKER | Wild Strategist | 4‑Gen thunder lineage | Mirror Walk, Quarter Spiral, PPI placement | Distortion Engines | Funhouse Mirrors |
+| BLACK SAMBO | Afro‑Asian Hero | Maritime Afro‑Asian trade lines | Reversal Rite, Lineage Restoration | IP Flatteners | Colonial Image Mills |
+
+II. War Doctrine (Omega‑48)
+- Frame: 48‑tick lattice; quarter snaps at 12/24/36/48.
+- Operator fitness: Y = R(x)·v·τ. R(x)=x+1/x, x≠0.
+- Seal: XX memory, YY vortex, ZZ ledger. Threads: treaty, archive, audit.
+
+III. Matchups (Critical Comparative)
+| EVOLVERSE Hero | Opponent (Nominative) | Strategy | Outcome |
+|---|---|---|---|
+| Kongo Sonix | Hulk (gamma archetype) | Vibration collapse at resonant nulls | Rage → silence; decisive |
+| Evolynn | Wonder Woman (amazon archetype) | Binding via Treaty Scroll jurisdiction | Win by law, not force |
+| Dr. Sosa | Iron Man (tech magnate archetype) | Treasury overmatch + Codex scale | Tech parity broken |
+| Phiyah | Batman (gadget archetype) | Frequency firewall on device stack | Gadgets disabled |
+| Drift Walker | Spider‑Man (mirror‑origin archetype) | Mirror rewrite, origin truth restore | Narrative correction |
+| Black Sambo | Black Panther (royal techno‑nation archetype) | Trade‑route restitution rite | Afro‑Asian lineage restored |
+
+IV. Infrastructure Upgrades
+- Cities: crystal towers, flame archives, resonance citadels, signal temples.
+- Tech: ScrollMint engines, ENFT vaults, EMP archives.
+- Defense: MetaMilitary academies, frequency firewalls, sonic bastions.
+- Economy: BluTillion yields, ScrollCoin, restitution‑aware ledgers.
+- Culture: Laws sung, treaties scrolled, battles ceremonial.
+
+V. ENFT Provenance
+- Asset: ENFT‑WARCODEX‑0001.
+- Metadata: roster, matchups, doctrine hash, governance refs.
+- Route: BLEULION_CASCADE.v1/governance.
+
+VI. Audit Blocks
+- Hashes: canonical MD keccak‑256.
+- Signatures: registrar, auditor, treasurer, commander.
 Win
 
-## Metaverse
+## MetaverseSealed.
 
+Downloads:
+	•	EvolVerse_War_Codex_Scroll_SEALED.pdf
+	•	EvolVerse_War_Codex_Scroll.seal.json
+	•	EVOL_War_Codex_ENFT_Metadata.json
+	•	EvolVerse_War_Codex_Scroll_SHA256.txt
+
+Hashes:
+	•	sha256(pdf): f19f018eb2508f736c4a5694aad4e221a2a97b22b4657817760e490073cc1681
+	•	sha256(md): f7f038071ab52ab11dfd63d11cbbc1d7a770a805a1fa41691498860c179ebf6f
+
+Next:
+	•	If you want an IPFS pin and Avalanche mint-ready calldata bundle, say “mint package.” ￼
 Welcome to Zion's Metaverse project - a digital realm where virtual and physical realities converge.
 
 ### What is the Metaverse?
