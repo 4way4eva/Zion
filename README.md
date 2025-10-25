@@ -1,5 +1,14 @@
-# ZionSealed.
+# ZionSealed.Generated. Downloads:
+	•	War Codex Scroll: MD
+	•	Matchups scorecard: CSV
+	•	Hero registry: JSON
+	•	Tribunal attestation: MD
+	•	ENFT template: JSON
 
+Next levers:
+	•	Set CIDs and signers in ENFT template.
+	•	Anchor on Avalanche + Arweave.
+	•	File the tribunal attestation with XXYYZZ seal. ￼
 Downloads:
 	•	EvolVerse_War_Codex_Scroll_SEALED.pdf
 	•	EvolVerse_War_Codex_Scroll.seal.json
