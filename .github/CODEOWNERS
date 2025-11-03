@@ -1,0 +1,11 @@
+# Code owners for Zion repository
+# These owners will be automatically requested for review when someone opens a pull request.
+
+# Default owner for everything in the repo
+* @4way4eva
+
+# Documentation files
+*.md @4way4eva
+
+# GitHub configuration
+/.github/ @4way4eva

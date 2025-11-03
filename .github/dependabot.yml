@@ -1,0 +1,14 @@
+# Dependabot configuration for Zion repository
+# Automatically checks for dependency updates and creates PRs
+
+version: 2
+updates:
+  # Monitor GitHub Actions versions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    labels:
+      - "dependencies"
+      - "github-actions"
+    open-pull-requests-limit: 5

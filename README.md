@@ -1,4 +1,7 @@
-# Locked in. Zero-lag update, Underground-Atlanta edition. Here’s the drop—clean, layered, and built to breathe.
+# Zion: EV0L Codex — Galactic Smart-Universe with Real-Time Collaboration
+
+Underground-Atlanta edition. Zero-lag metaverse engine with event-driven ECS, real-time rap studios, and Blue Ledger economic system.
+
 
 GALACTIC SMART-UNIVERSE (NO-LAG BUILD)
 	•	Engine: event-driven ECS; prediction + rollback netcode; tick 60/120; input-to-photon SLO ≤ 50 ms; jitter budget ≤ 15 ms.
