@@ -1,0 +1,76 @@
+name: EV0L Codex CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    name: EV0L Codex CI
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Validate markdown files
+        run: |
+          echo "✓ Validating documentation structure..."
+          for file in *.md; do
+            if [ -f "$file" ]; then
+              echo "  → Checking $file"
+              # Basic validation that file is not empty and is valid UTF-8
+              if [ ! -s "$file" ]; then
+                echo "    ✗ Error: $file is empty"
+                exit 1
+              fi
+              if ! file "$file" | grep -q "UTF-8\|ASCII"; then
+                echo "    ✗ Error: $file has invalid encoding"
+                exit 1
+              fi
+              echo "    ✓ $file is valid"
+            fi
+          done
+      
+      - name: Check for required files
+        run: |
+          echo "✓ Checking for required documentation..."
+          required_files=(
+            "README.md"
+            "EVOL_MASTER_PLAN.md"
+            "PRODUCT_ECOSYSTEM.md"
+          )
+          for file in "${required_files[@]}"; do
+            if [ -f "$file" ]; then
+              echo "  ✓ $file exists"
+            else
+              echo "  ✗ Error: $file is missing"
+              exit 1
+            fi
+          done
+      
+      - name: Validate GitHub configuration
+        run: |
+          echo "✓ Validating GitHub configuration..."
+          if [ -f ".github/CODEOWNERS" ]; then
+            echo "  ✓ CODEOWNERS file exists"
+          else
+            echo "  ⚠ Warning: CODEOWNERS file not found"
+          fi
+          
+          if [ -f ".gitattributes" ]; then
+            echo "  ✓ .gitattributes exists (Git LFS configured)"
+          else
+            echo "  ⚠ Warning: .gitattributes not found (consider setting up Git LFS)"
+          fi
+      
+      - name: CI completion
+        run: |
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo "✓ EV0L Codex CI completed successfully"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
