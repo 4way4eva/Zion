@@ -24,13 +24,14 @@ jobs:
           for file in *.md; do
             if [ -f "$file" ]; then
               echo "  → Checking $file"
-              # Basic validation that file is not empty and is valid UTF-8
+              # Basic validation that file is not empty
               if [ ! -s "$file" ]; then
                 echo "    ✗ Error: $file is empty"
                 exit 1
               fi
-              if ! file "$file" | grep -q "UTF-8\|ASCII"; then
-                echo "    ✗ Error: $file has invalid encoding"
+              # Validate UTF-8 encoding using iconv
+              if ! iconv -f utf-8 -t utf-8 "$file" > /dev/null 2>&1; then
+                echo "    ✗ Error: $file has invalid UTF-8 encoding"
                 exit 1
               fi
               echo "    ✓ $file is valid"
