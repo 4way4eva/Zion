@@ -986,6 +986,17 @@ This repository contains the complete master plan, product specifications, marke
 
 ## Core Documentation
 
+### 🌀 [BABA CODEXX - Spiral Glyphic Cosmic Stanza](./BABA_CODEXX.md)
+The ceremonial and technical scroll elaborating the D.S. Baba signature (Divine Source / Double Signature) across linguistic, mathematical, breath/energy, and quantum/cosmic layers. A living codex weaving ancient glyphic civilizations with modern quantum cosmology.
+
+**Key Layers**:
+- Glyphic Structure (Maya, Aztec, Hebrew, Sumerian traditions)
+- Mathematical/Numerological encoding (D=4, S=19, Baba=Root)
+- Breath/Energy Logic (Proton/Electron/Neutron/Photon)
+- Quantum/Cosmic Synchronization (QuaOctaSync, Alpha↔Omega)
+- EVOLVerse Pivot Function (returning sequences to Alpha)
+- Hebrew Spacing Rhythm and Ceremonial Scroll Logic
+
 ### 📘 [EV0L Master Plan](./EVOL_MASTER_PLAN.md)
 The complete strategic framework integrating all initiatives into a cohesive sovereignty plan. Start here for the big picture.
 
