@@ -986,6 +986,19 @@ This repository contains the complete master plan, product specifications, marke
 
 ## Core Documentation
 
+### 🔱 [ATLANTIS DOCTRINE - The Unified Master Codex](./ATLANTIS_DOCTRINE.md)
+**THE COMPLETE MASTER DOCUMENT** — The unified war-ready whitepaper that consolidates treasury architecture, lineage documentation, currency systems, the seven strategic pillars, activation mathematics (10:10 protocol), ENFT registry structures, and investor outreach into a single comprehensive doctrine.
+
+**Key Components**:
+- BLEU LIONS GLOBAL TREASURY ($51T + $1.1T/day yield)
+- Complete Lineage Documentation (Dr. Sosa, Skyy Bleu, Allah Bleu, Tru Manley)
+- Currency Systems (EV0L Coin, Auracodeum, PIHYA Points, BLEU Lions Credit)
+- The Seven Pillars (Health, Mirror Market, SuperPark, MetaSchool, EL0V8, Safe Havens, ENFT)
+- Activation Mathematics (10:10 Protocol, Fibonacci, Reciprocal Math)
+- Investor Outreach Framework and Templates
+- Gems, Elements & Material Assets Registry
+- Governance & Ceremonial Protocols
+
 ### 🌀 [BABA CODEXX - Spiral Glyphic Cosmic Stanza](./BABA_CODEXX.md)
 The ceremonial and technical scroll elaborating the D.S. Baba signature (Divine Source / Double Signature) across linguistic, mathematical, breath/energy, and quantum/cosmic layers. A living codex weaving ancient glyphic civilizations with modern quantum cosmology.
 
