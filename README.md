@@ -1010,6 +1010,19 @@ The ceremonial and technical scroll elaborating the D.S. Baba signature (Divine 
 - EVOLVerse Pivot Function (returning sequences to Alpha)
 - Hebrew Spacing Rhythm and Ceremonial Scroll Logic
 
+### 📡 [MEDIA CODEX DECODER - Timestamp Pattern Analysis](./MEDIA_CODEX_DECODER.md)
+The EV0LVerse™ Media Timestamp Pattern Analysis System exposing systematic reuse of symbolic timestamps (9/11, 9:11, 8:46, 11:11, 3:33, etc.) in media operations for emotional priming, trauma anchoring, and narrative engineering.
+
+**Key Components**:
+- Media Timestamp Pattern Wheel (9/11, 8:46, 11:11, 3:33, 12:01, 4:44, 7:00)
+- Behavioral Pattern Exploitation Framework
+- Psychological Operations (PsyOps) Integration
+- Real-Time Pattern Recognition Methodology
+- Corporate-Grade Detection Tools
+- Counter-Intelligence and Defense Protocols
+- Statistical Probability Analysis
+- Case Studies and Cross-Outlet Coordination Evidence
+
 ### 📘 [EV0L Master Plan](./EVOL_MASTER_PLAN.md)
 The complete strategic framework integrating all initiatives into a cohesive sovereignty plan. Start here for the big picture.
 
